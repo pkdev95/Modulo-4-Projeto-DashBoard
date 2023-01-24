@@ -39,6 +39,13 @@ Victor Robinson: -
 
 <hr></hr>
 
+Ferramentas Utilizadas:
+
+• SQL Server
+• MySQL WorkBench
+• Excel
+• GitHub
+
 <h2>Perguntas</h2>
 
 🔹 Quais atores mais atuaram nos episódios de Game of Thrones?
@@ -46,6 +53,9 @@ Victor Robinson: -
    SELECT actor, episodes_appeared 
    FROM persons_V4 
    WHERE Episodes_appeared > 50;
+   
+   ![Screenshot](pergunta1.jpeg)
+   
 
 🔹 Quais os episódios tiveram as melhores avaliações?
    SELECT Episode, Rating 
