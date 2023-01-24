@@ -14,7 +14,7 @@ O projeto foi dividido nas seguintes etapas para a otimização do trabalho:
 
 🔹 Organização da equipe e delegação de tarefas para a construção do projeto, utilizando ferramentas como MySQL, Github, PowerBi, GitHub Desktop e Workbench.
 
-<hr></hr>
+
 
 <h2>Nossa Equipe - Squad 1</h2>
 
@@ -28,7 +28,7 @@ Rafael Ferreira: https://github.com/Rafael-Ferreira-RJ
 
 Victor Robinson: 
 
-<hr></hr>
+
 
 <h2>Perguntas</h2>
 
