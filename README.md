@@ -48,7 +48,7 @@ Ferramentas Utilizadas:
 
 Diagrama relacional
 
- ![Screenshot](diagrama/importante.jpeg)
+ ![Screenshot](diagrama/importante.png)
 
 <h2>Perguntas</h2>
 
