@@ -54,7 +54,7 @@ Ferramentas Utilizadas:
    FROM persons_V4 
    WHERE Episodes_appeared > 50;
    
-   ![Screenshot](pergunta1.jpeg)
+   ![Screenshot](imagens/pergunta1.jpeg)
    
 
 🔹 Quais os episódios tiveram as melhores avaliações?
