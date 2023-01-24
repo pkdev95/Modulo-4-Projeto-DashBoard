@@ -52,41 +52,45 @@ Diagrama relacional
 
 <h2>Perguntas</h2>
 
-🔹 Quais atores mais atuaram nos episódios de Game of Thrones?
-   Código utilizado no MySQL:
-   SELECT actor, episodes_appeared 
-   FROM persons_V4 
-   WHERE Episodes_appeared > 50;
+🔹 Quais atores mais atuaram nos episódios de Game of Thrones?<br>
+   Código utilizado no MySQL:<br>
+   SELECT actor, episodes_appeared<br>
+   FROM persons_V4<br> 
+   WHERE Episodes_appeared > 50;<br>
    
    ![Screenshot](imagens/pergunta1.jpeg)
    
 
-🔹 Quais os episódios tiveram as melhores avaliações?
-   SELECT Episode, Rating 
-   FROM got_episodes_V4 
-   WHERE Rating > 9.5;
+🔹 Quais os episódios tiveram as melhores avaliações?<br>
+   Código utilizado no MySQL:<br>
+   SELECT Episode, Rating<br> 
+   FROM got_episodes_V4<br> 
+   WHERE Rating > 9.5;<br>
    
    ![Screenshot](imagens/pergunta2.jpeg)
 
-🔹 Quais os episódios mais votados?
-   SELECT Episode, Votes 
-   FROM got_episodes_V4 
-   WHERE votes > 37000;
+🔹 Quais os episódios mais votados?<br>
+   Código utilizado no MySQL:<br>
+   SELECT Episode, Votes<br> 
+   FROM got_episodes_V4<br> 
+   WHERE votes > 37000;<br>
    
    ![Screenshot](imagens/pergunta3.jpeg)
 
-🔹 Quais os episódios tiveram as maiores durações?
-   SELECT Episode, Duration 
-   FROM got_episodes_V4 
-   WHERE Duration > 60;
+🔹 Quais os episódios tiveram as maiores durações?<br>
+   Código utilizado no MySQL:<br>
+   SELECT Episode, Duration<br> 
+   FROM got_episodes_V4<br> 
+   WHERE Duration > 60;<br>
    
    ![Screenshot](imagens/pergunta4.jpeg)
 
-🔹 Quais regiões possuem mais casas?
-   SELECT Region, COUNT(*) 
-   FROM houses_V1 
-   GROUP BY Region 
-   HAVING COUNT(*) > 1;
+🔹 Quais regiões possuem mais casas?<br>
+   Código utilizado no MySQL:<br>
+   SELECT Region, COUNT(*)<br> 
+   FROM houses_V1<br> 
+   GROUP BY Region<br> 
+   HAVING COUNT(*) > 1;<br>
    
    ![Screenshot](imagens/pergunta5.jpeg)
     
