@@ -47,8 +47,8 @@ Ferramentas Utilizadas:
 • GitHub
 
 Diagrama relacional
- 
-![Screenshot](diagrama/importante.jpeg)
+
+ ![Screenshot](diagrama/importante.jpeg)
 
 <h2>Perguntas</h2>
 
