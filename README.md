@@ -1,25 +1,43 @@
+<h1># Banco de dados - Game of Thrones.<h1>
 
+Projeto Módulo 4
 
+📜O projeto:
 
- FERRAMENTAS UTILIZADAS NO PROJETO:
- 
- https://github.com/brwnalima/Projeto-em-grupo-4
- 
-• MySQL
-• SQL Server
-• Excel
-• GitHub 
-                                               
+O projeto tem como objetivo a manipulação e visualização de dados inseridos em um banco de dados.
+Para a realização do projeto foi utilizado o programa MySQL para a visualização dos arquivos .CSV disponibilizados pela Resilia.
+O projeto foi dividido nas seguintes etapas para a otimização do trabalho:
 
-                                                           PERGUNTAS FORMULADAS PELO GRUPO:
-                                                           
-                                                           
-                            ![image](https://user-images.githubusercontent.com/113390894/214432165-4727f725-a68a-43ea-b677-6abcf097f2d5.png)
+🔹 Criação das tabelas utilizando o MySQL WorkBench;
 
+🔹 Realização de Brainstorm para a elaboração das perguntas que foram respondidas através dos dados contidos nas tabelas;
 
-                                                   
-                                                   
-                                                   
- 
-                                                   
-     
+🔹 Organização da equipe e delegação de tarefas para a construção do projeto, utilizando ferramentas como MySQL, Github, PowerBi, GitHub Desktop e Workbench.
+
+<hr></hr>
+
+<h2>Nossa Equipe - Squad 1<h2>
+
+Juan Sales: https://github.com/Juangsales
+
+Luan Martins: https://github.com/luanmartins8
+
+Patrick: https://github.com/pkdev95
+
+Rafael Ferreira: https://github.com/Rafael-Ferreira-RJ
+
+Victor Robinson: 
+
+<hr></hr>
+
+<h2>Perguntas</h2>
+
+🔹 Quais atores apareceram com maior frequência nos episódios?
+
+🔹 Quais os episódios que tiveram as melhores avaliações?
+
+🔹 Quais os episódios mais votados?
+
+🔹 Quais os episódios que tiveram a maior duração?
+
+🔹 Quais regiões possuem mais casas?
