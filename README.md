@@ -87,4 +87,6 @@ Ferramentas Utilizadas:
    ![Screenshot](imagens/pergunta5.jpeg)
     
     
-                                                          RESULTADOS GERAIS:
+                                                                RESULTADOS GERAIS:
+                                                                
+    ![Screenshot](imagens/Resultados.jpeg)
