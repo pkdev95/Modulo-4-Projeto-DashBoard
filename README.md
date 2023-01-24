@@ -1,6 +1,6 @@
 <h1># Banco de dados - Game of Thrones.</h1>
 
-📜Contexto do Projeto
+📜Contexto do Projeto:
 
 Há um problema e precisam da nossa ajuda para resolver!
 O cliente acumulou alguns conjuntos de dados e eles não conseguem ter uma visão padronizada desses dados.
@@ -48,22 +48,22 @@ Victor Robinson: -
    WHERE Episodes_appeared > 50;
 
 🔹 Quais os episódios tiveram as melhores avaliações?
-    SELECT Episode, Rating 
-    FROM got_episodes_V4 
-    WHERE Rating > 9.5;
+   SELECT Episode, Rating 
+   FROM got_episodes_V4 
+   WHERE Rating > 9.5;
 
 🔹 Quais os episódios mais votados?
-    SELECT Episode, Votes 
-    FROM got_episodes_V4 
-    WHERE votes > 37000;
+   SELECT Episode, Votes 
+   FROM got_episodes_V4 
+   WHERE votes > 37000;
 
 🔹 Quais os episódios tiveram as maiores durações?
-    SELECT Episode, Duration 
-    FROM got_episodes_V4 
-    WHERE Duration > 60;
+   SELECT Episode, Duration 
+   FROM got_episodes_V4 
+   WHERE Duration > 60;
 
 🔹 Quais regiões possuem mais casas?
    SELECT Region, COUNT(*) 
-    FROM houses_V1 
-    GROUP BY Region 
-    HAVING COUNT(*) > 1;
+   FROM houses_V1 
+   GROUP BY Region 
+   HAVING COUNT(*) > 1;
