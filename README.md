@@ -46,9 +46,9 @@ Ferramentas Utilizadas:
 • Excel
 • GitHub
 
- Diagrama relacional
+Diagrama relacional
  
-  ![Screenshot](imagens/pergunta1.jpeg)
+![Screenshot](diagrama/importante.jpeg)
 
 <h2>Perguntas</h2>
 
