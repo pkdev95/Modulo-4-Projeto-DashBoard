@@ -61,19 +61,30 @@ Ferramentas Utilizadas:
    SELECT Episode, Rating 
    FROM got_episodes_V4 
    WHERE Rating > 9.5;
+   
+    ![Screenshot](imagens/pergunta2.jpeg)
 
 🔹 Quais os episódios mais votados?
    SELECT Episode, Votes 
    FROM got_episodes_V4 
    WHERE votes > 37000;
+   
+    ![Screenshot](imagens/pergunta3.jpeg)
 
 🔹 Quais os episódios tiveram as maiores durações?
    SELECT Episode, Duration 
    FROM got_episodes_V4 
    WHERE Duration > 60;
+   
+    ![Screenshot](imagens/pergunta4.jpeg)
 
 🔹 Quais regiões possuem mais casas?
    SELECT Region, COUNT(*) 
    FROM houses_V1 
    GROUP BY Region 
    HAVING COUNT(*) > 1;
+   
+    ![Screenshot](imagens/pergunta5.jpeg)
+    
+    
+                                                          RESULTADOS GERAIS:
