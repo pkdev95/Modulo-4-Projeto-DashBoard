@@ -46,6 +46,10 @@ Ferramentas Utilizadas:
 • Excel
 • GitHub
 
+ Diagrama relacional
+ 
+  ![Screenshot](imagens/pergunta1.jpeg)
+
 <h2>Perguntas</h2>
 
 🔹 Quais atores mais atuaram nos episódios de Game of Thrones?
