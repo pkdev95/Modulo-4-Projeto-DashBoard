@@ -16,7 +16,7 @@ O projeto foi dividido nas seguintes etapas para a otimização do trabalho:
 
 <hr></hr>
 
-<h2>Nossa Equipe - Squad 1<h2>
+<h2>Nossa Equipe - Squad 1</h2>
 
 Juan Sales: https://github.com/Juangsales
 
