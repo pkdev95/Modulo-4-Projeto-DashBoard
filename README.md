@@ -35,17 +35,17 @@ Patrick: https://github.com/pkdev95
 
 Rafael Ferreira: https://github.com/Rafael-Ferreira-RJ
 
-Victor Robinson: - https://github.com/programadorcarioca
+Victor Robinson: -
 
 <hr></hr>
 
 <h2>Perguntas</h2>
 
-🔹 • Quais atores apareceram com maior frequência nos episódios?
-     Código utilizado no MySQL:
-     SELECT actor, episodes_appeared 
-     FROM persons_V4 
-     WHERE Episodes_appeared > 50;
+🔹 Quais atores mais atuaram nos episódios de Game of Thrones?
+   Código utilizado no MySQL:
+   SELECT actor, episodes_appeared 
+   FROM persons_V4 
+   WHERE Episodes_appeared > 50;
 
 🔹 Quais os episódios tiveram as melhores avaliações?
     SELECT Episode, Rating 
@@ -57,7 +57,7 @@ Victor Robinson: - https://github.com/programadorcarioca
     FROM got_episodes_V4 
     WHERE votes > 37000;
 
-🔹 Quais os episódios tiveram a maior duração?
+🔹 Quais os episódios tiveram as maiores durações?
     SELECT Episode, Duration 
     FROM got_episodes_V4 
     WHERE Duration > 60;
@@ -66,4 +66,4 @@ Victor Robinson: - https://github.com/programadorcarioca
    SELECT Region, COUNT(*) 
     FROM houses_V1 
     GROUP BY Region 
-    HAVING COUNT(*)  > 1;
+    HAVING COUNT(*) > 1;
