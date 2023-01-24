@@ -1,4 +1,4 @@
-<h1># Banco de dados - Game of Thrones.<h1>
+<h1># Banco de dados - Game of Thrones.</h1>
 
 Projeto Módulo 4
 
